@@ -2,7 +2,7 @@ O seguinte relatório refere-se ao trabalho de Algoritimos e programação II no
 
 O desenvolvimento do jogo se deu através de encotros na casa de um dos participantes do grupo, onde foi-se discutido e desenvolvido quase toda a metodologia.
 
-A maior parte do desenvolvimento se deu através do Microsoft Visual Studio 2017, mas também foi utilizado o mesmo compilador utilizado em sala de aula (Dev C++) os quais apresentarão algumas diferenças de compilação, como por exemplo, no Visual Studio 2017 o compilador pulava a tela a qual o usuário informava seu "nome de jogador", algo que não ocorreu através do Dev C++.
+A maior parte do desenvolvimento se deu através do Microsoft Visual Studio 2017, mas também foi utilizado o mesmo compilador utilizado em sala de aula (Dev C++) os quais apresentaram algumas diferenças de compilação, como por exemplo, no Visual Studio 2017 o compilador pulava a tela a qual o usuário informava seu "nome de jogador", algo que não ocorreu através do Dev C++.
 
 Para a armazenar a quantidade de embarcações foi utilizado a estrutura de dados "Struct" nomeada Barco contendo todas as 6 embarcações utilizadas no jogo.
 
