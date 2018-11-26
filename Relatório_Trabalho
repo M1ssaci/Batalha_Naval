@@ -4,13 +4,13 @@ O desenvolvimento do jogo se deu através de encotros na casa de um dos particip
 
 A maior parte do desenvolvimento se deu através do Microsoft Visual Studio 2017, mas também foi utilizado o mesmo compilador utilizado em sala de aula (Dev C++) os quais apresentarão algumas diferenças de compilação, como por exemplo, no Visual Studio 2017 o compilador pulava a tela a qual o usuário informava seu "nome de jogador", algo que não ocorreu através do Dev C++.
 
-Para a quantificação das embarcações foi utilizado a estrutura de dados "Struct" nomeada Barco contendo todas as 6 embarcações utilizadas no jogo.
+Para a armazenar a quantidade de embarcações foi utilizado a estrutura de dados "Struct" nomeada Barco contendo todas as 6 embarcações utilizadas no jogo.
 
 Para o restante das funcionalidades e ações do jogo foi utilizado a estrutura de dados "Function" como por exemplo a função GerarMenuPrincipal a qual imprimia para o usuário as opções disponiveis do menu principal e recebia a decisão do mesmo.
 
-O jogo ocorre da seguinte maneira: o usuário começara em um menu principal no qual ele devera escolher uma das seguintes opções: Novo jogo, Instruções de Jogo e Sair, caso o usuário escolha "Novo jogo" uma nova tela surgira solicitando que o mesmo informe um nome no qual sera indicado no topo de seu tabuleiro, caso a escolha seja intruções o mesmo recebera uma tela informando como o jogo se desenvolvera e a ultima opção sair fara com que uma segunda tela pedindo para o usuário confirmar ou não a saida do jogo, caso a resposta seja "S" o jogo se encerrara, caso a resposta seja "N" ele voltara a tela do menu principal.
+O jogo ocorre da seguinte maneira: o usuário começara em um menu principal no qual ele devera escolher uma das seguintes opções: Novo jogo, Instruções de Jogo e Sair, caso o usuário escolha "Novo jogo" uma nova tela surgira solicitando que o mesmo informe um nome no qual sera indicado no topo de seu tabuleiro, o qual seria seu "nome de jogador" caso a escolha seja intruções, o mesmo recebera uma tela informando como o jogo se desenvolvera e a ultima opção sair fará com que uma segunda tela pedindo para o usuário confirmar ou não a saida do jogo, caso a resposta seja "S" o jogo se encerrara, caso a resposta seja "N" ele voltara a tela do menu principal.
 
-Após a escolha de seu "nome de jogo" o usuário tera que escolher as posições de suas 6 embarcações indicadas em um mini menu com a numeração de cada barco para que o usuário escolha qual ele ira posicionar em seu tabuleiro tabuleiro e se o mesmo sera posicionado na horizontal ou vertical.
+Após a escolha de seu "nome de jogador" o usuário tera que escolher as posições de suas 6 embarcações indicadas em um mini menu com a numeração de cada barco para que o usuário escolha qual ele ira posicionar em seu tabuleiro tabuleiro e se o mesmo sera posicionado na horizontal ou vertical.
 
 Terminado todos os passos relatados acima a partida começara e as primeiras coordenadas a serem atacadas serão informadas pelo usuário e o resultado da rodada de ataques do usuário e do computador serão imprimidas, o resultado da ação podendo ser "Água" ou "Barco atingido".
 
