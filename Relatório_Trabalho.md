@@ -14,5 +14,5 @@ Após a escolha de seu "nome de jogador" o usuário tera que escolher as posiç�
 
 Terminado todos os passos relatados acima a partida começara e as primeiras coordenadas a serem atacadas serão informadas pelo usuário e o resultado da rodada de ataques do usuário e do computador serão imprimidas, o resultado da ação podendo ser "Água" ou "Barco atingido".
 
-O jogo terminara quando todas as embarcações do usuário ou do computador forem destruidos, caso o jogador ganhe, uma mensagem dizendo: "Parabéns!!! Você VENCEU!!" sera imprimida, caso o computador ganhe, a seguinte mensagem sera imprimida: "Você perdeu!"
+O jogo terminara quando todas as embarcações do usuário ou do computador forem destruidos, caso o jogador ganhe, uma mensagem dizendo: "PARABÉNS JOGADOR "Nome do Jogador! Voce Venceu!!" sera imprimida, caso o computador ganhe, a seguinte mensagem sera imprimida: "JOGADOR "Nome do jogador". QUE PENA, VOCÊ PERDEU!"
 
